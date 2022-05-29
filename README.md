@@ -1,7 +1,3 @@
-- 👋 Hi, my name is Rabah, I'm 22.
-- 👀 I’m interested in football and cars.
-- 🚚 I'm student in computer science and delivery man.
-- 🌱 I’m currently learning JavaScript & PHP.
 - 📫 How to reach me : 
       - email : rabah.aoudj9@live.fr
       - Discord : Rabah#9256
