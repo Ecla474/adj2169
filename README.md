@@ -1,5 +1,4 @@
 - 📫 How to reach me : 
-      - email : rabah.aoudj9@live.fr
       - Discord : Rabah#9256
 
 <!---
